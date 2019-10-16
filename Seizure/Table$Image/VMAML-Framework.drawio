@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-10-15T09:08:53.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="hDcHhbMBlduCVJasa1re" version="12.1.1" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-10-16T11:45:31.137Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36" etag="3qJ2Y_izhTWay5U94_-O" version="12.1.1" type="github" pages="3">
   <diagram id="CHhvrfTfO5NMeSII0Lua" name="Page-1">
     <mxGraphModel dx="1408" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -351,57 +351,65 @@
       <root>
         <mxCell id="luPBucOMOKFil8FiSVLd-0"/>
         <mxCell id="luPBucOMOKFil8FiSVLd-1" parent="luPBucOMOKFil8FiSVLd-0"/>
-        <mxCell id="luPBucOMOKFil8FiSVLd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-3" target="luPBucOMOKFil8FiSVLd-5">
+        <mxCell id="luPBucOMOKFil8FiSVLd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-3" target="luPBucOMOKFil8FiSVLd-5" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$x$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-3" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$x$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="60" y="240" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-5" target="luPBucOMOKFil8FiSVLd-7">
+        <mxCell id="luPBucOMOKFil8FiSVLd-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-5" target="luPBucOMOKFil8FiSVLd-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$q_{\theta}(z | x)$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-5" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$q_{\theta}(z | x)$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="180" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-7" target="luPBucOMOKFil8FiSVLd-9">
+        <mxCell id="luPBucOMOKFil8FiSVLd-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-7" target="luPBucOMOKFil8FiSVLd-9" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$z$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-7" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$z$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-9" target="luPBucOMOKFil8FiSVLd-11">
+        <mxCell id="luPBucOMOKFil8FiSVLd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-9" target="luPBucOMOKFil8FiSVLd-11" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$p_{\phi}(x | z)$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-9" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$p_{\phi}(x | z)$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="500" y="240" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;jumpStyle=none;endArrow=none;endFill=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-11" target="luPBucOMOKFil8FiSVLd-15">
+        <mxCell id="luPBucOMOKFil8FiSVLd-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;jumpStyle=none;endArrow=none;endFill=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-11" target="luPBucOMOKFil8FiSVLd-15" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$\tilde{x}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;$$\tilde{x}$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="660" y="240" width="80" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-13" target="luPBucOMOKFil8FiSVLd-7">
+        <mxCell id="luPBucOMOKFil8FiSVLd-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-13" target="luPBucOMOKFil8FiSVLd-7" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Gaussian Noise&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-13" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Gaussian Noise&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="340" y="120" width="120" height="80" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-15" target="luPBucOMOKFil8FiSVLd-3">
+        <mxCell id="luPBucOMOKFil8FiSVLd-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="luPBucOMOKFil8FiSVLd-1" source="luPBucOMOKFil8FiSVLd-15" target="luPBucOMOKFil8FiSVLd-3" edge="1">
           <mxGeometry relative="1" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Similarity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-15" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Similarity&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="340" y="360" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-16" value="&lt;font style=&quot;font-size: 16px&quot;&gt;encoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-16" value="&lt;font style=&quot;font-size: 16px&quot;&gt;encoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="180" y="300" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;code&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-17" value="&lt;font style=&quot;font-size: 16px&quot;&gt;code&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="340" y="300" width="120" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="luPBucOMOKFil8FiSVLd-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;dncoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="luPBucOMOKFil8FiSVLd-1">
+        <mxCell id="luPBucOMOKFil8FiSVLd-18" value="&lt;font style=&quot;font-size: 16px&quot;&gt;dncoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="luPBucOMOKFil8FiSVLd-1" vertex="1">
           <mxGeometry x="500" y="300" width="120" height="40" as="geometry"/>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="cXnbS4Ru6w57U7JJpNfo" name="Grad-CAM">
+    <mxGraphModel dx="1408" dy="819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="rShqJIuRtcd7H9Vx4vGm-0"/>
+        <mxCell id="rShqJIuRtcd7H9Vx4vGm-1" parent="rShqJIuRtcd7H9Vx4vGm-0"/>
       </root>
     </mxGraphModel>
   </diagram>
