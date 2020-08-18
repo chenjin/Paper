@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-08-18T03:02:33.616Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="fyaxJ9i6xJKUAZOmHwZL" version="13.6.2" type="github">
+<mxfile host="www.draw.io" modified="2020-08-18T03:04:04.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36" etag="hIhqk43xsjqOmnzqXJ9G" version="13.6.2" type="github">
   <diagram id="Wx8GK405Yj2OqTjKrMqW" name="Page-1">
     <mxGraphModel dx="1408" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
@@ -12,7 +12,7 @@
         <mxCell id="rtLLGx0ZlrT6Qw1LvZ3F-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;strokeColor=#000000;" parent="1" source="rtLLGx0ZlrT6Qw1LvZ3F-1" target="rtLLGx0ZlrT6Qw1LvZ3F-115" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="rtLLGx0ZlrT6Qw1LvZ3F-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Data&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
+        <mxCell id="rtLLGx0ZlrT6Qw1LvZ3F-1" value="&lt;font style=&quot;font-size: 18px&quot;&gt;SEEG Segment&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="60" y="270" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rtLLGx0ZlrT6Qw1LvZ3F-31" value="" style="group;fillColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1" connectable="0">
